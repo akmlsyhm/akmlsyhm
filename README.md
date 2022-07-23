@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @akmlsyhm
+- 👋 Hi, I’m Akmal
 - 👀 I’m interested in Data Science, Machine Learning.
 - 🌱 I’m currently learning Python Programming Language, Java Programming Language.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through these emails, akmlsyhm53@gmail.com  / akmalsyahmi50@gmail.com.
 
 <!---
