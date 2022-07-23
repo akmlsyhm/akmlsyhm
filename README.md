@@ -1,4 +1,4 @@
-<h1>Akmal Syahmi<h1>
+<h1>Akmal Syahmi</h1>
   
 - 👋 Hi, I’m currently studying in Computer Science at University of Technology MARA in Perak, Malaysia.
 - 👀 I’m interested in Data Science, Machine Learning.
